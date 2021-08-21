@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588490768 source:d:\c++\oop_polymorphism_qlnhanviencongty\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

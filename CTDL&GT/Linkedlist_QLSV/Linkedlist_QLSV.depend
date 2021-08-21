@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1598024783 source:d:\c++\ctdl&gt\linkedlist_qlsv\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596444881 source:d:\c++\ctdl&gt\sinhvien\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

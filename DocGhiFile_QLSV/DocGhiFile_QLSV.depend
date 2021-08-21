@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1588484919 source:d:\c++\docghifile_qlsv\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<string.h>
+

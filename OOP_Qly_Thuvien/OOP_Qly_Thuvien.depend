@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1587825186 source:d:\c++\oop_qly_thuvien\main.cpp
+	"Thuvien.h"
+
+1587825600 d:\c++\oop_qly_thuvien\docgia.h
+	<iostream>
+	<string>
+
+1587824653 source:d:\c++\oop_qly_thuvien\docgia.cpp
+	"DocGia.h"
+
+1587822980 source:d:\c++\oop_qly_thuvien\docgia_nguoilon.cpp
+	"Docgia_Nguoilon.h"
+
+1587822980 d:\c++\oop_qly_thuvien\docgia_nguoilon.h
+	"DocGia.h"
+
+1587825807 source:d:\c++\oop_qly_thuvien\thuvien.cpp
+	"Thuvien.h"
+
+1587825600 d:\c++\oop_qly_thuvien\thuvien.h
+	"Docgia_Nguoilon.h"
+	"Docgia_Treem.h"
+	<vector>
+
+1587822980 d:\c++\oop_qly_thuvien\docgia_treem.h
+	"DocGia.h"
+
+1587822980 source:d:\c++\oop_qly_thuvien\docgia_treem.cpp
+	"Docgia_Treem.h"
+

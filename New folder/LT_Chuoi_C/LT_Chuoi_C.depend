@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588575093 source:d:\c++\new folder\lt_chuoi_c\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

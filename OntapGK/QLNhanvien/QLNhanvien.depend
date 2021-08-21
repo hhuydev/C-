@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591434618 source:d:\c++\ontapgk\qlnhanvien\main.cpp
+	<iostream>
+	<math.h>
+	<string.h>
+
